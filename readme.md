@@ -46,7 +46,7 @@ This is a simple and interactive ATM system built using Python and Streamlit. Th
    * Withdraw
    * Change PIN
    * Transaction History
-   * Logout([YouTube][3], [TheFreeDictionary.com][4], [Dictionary.com][5])
+   * Logout
 
 ---
 
@@ -54,7 +54,7 @@ This is a simple and interactive ATM system built using Python and Streamlit. Th
 
 Experience the live demo of the application here:
 
-🔗 [https://atm-system-demo.streamlit.app](https://atm-system-demo.streamlit.app)
+🔗 [https://rayyanhamid-automata-project-main-2inled.streamlit.app/](https://rayyanhamid-automata-project-main-2inled.streamlit.app/)
 
 ---
 
@@ -62,7 +62,7 @@ Experience the live demo of the application here:
 
 Access the source code on GitHub:
 
-🔗 [https://github.com/username/atm-system](https://github.com/username/atm-system)
+🔗 [https://github.com/Rayyanhamid/automata_project?tab=readme-ov-file](https://github.com/Rayyanhamid/automata_project?tab=readme-ov-file)
 
 ---
 
